@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Level tool"
+	"version"			"1.4"
+	"up_date"			"2009-06-03"
+	"author_name"			"TomyLobo"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Levels props"
+}
